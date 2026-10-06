@@ -1,0 +1,21 @@
+{
+  "seasonal_naive": {
+    "MAPE": 28.8,
+    "WAPE": 26.6
+  },
+  "sarima": {
+    "MAPE": 26.5,
+    "WAPE": 24.7
+  },
+  "prophet": {
+    "MAPE": 26.0,
+    "WAPE": 23.7
+  },
+  "ensemble": {
+    "MAPE": 24.6,
+    "WAPE": 22.7
+  },
+  "best_model": "ensemble",
+  "mape_reduction_vs_naive_pct": 14.6,
+  "backtest": "8 weekly walk-forward folds, 2011-10-16 to 2011-12-09"
+}

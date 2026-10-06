@@ -1,0 +1,9 @@
+{
+  "raw_rows": 541909,
+  "cancellations": 9288,
+  "missing_customer_id": 135080,
+  "non_positive_qty_or_price": 11805,
+  "duplicate_rows": 5268,
+  "purchases_reversed_by_cancellation": 5563,
+  "clean_rows": 517405
+}
